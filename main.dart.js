@@ -63861,7 +63861,7 @@ if(a.M(p).f.a.a>=1024)r.push(A.fK(A.dK(q,this.R1(),B.p,B.i,q,q,q,80,q,q,q,q,1797
 r.push(A.dj(q,q,20))
 r.push(A.fK(A.aeo(A.e0(A.aw(this.c,!0,t.l7),B.L,B.I,B.C),q,B.aP),7))
 return new A.vP(s,A.nW(A.dK(q,A.e0(r,B.aw,B.I,B.C),B.p,q,new A.aB(0,1440,0,1/0),q,q,q,q,q,q,q,q),q,q),new A.H3(q),q)},
-R1(){var s=null,r=A.arX(s,s,new A.nJ("assets/icons/transparent_main_icon.png",s,s)),q=A.a4Z(B.M,new A.XG(),20,B.k,"Project"),p=A.dj(s,s,20),o=A.a4Z(B.M,new A.XH(),20,B.k,"Service"),n=A.dj(s,s,20),m=A.a4Z(B.M,new A.XI(),20,B.k,"About Us"),l=A.dj(s,s,20),k=A.aot(B.Dr),j=A.ad7(15),i=t.p
+R1(){var s=null,r=A.arX(s,s,new A.nJ("assets/icons/transparent_main_icon.png",s,s)),q=A.a4Z(B.M,new A.XG(),20,B.k,"Project"),p=A.dj(s,s,20),o=A.a4Z(B.M,new A.XH(),20,B.k,"Service Update"),n=A.dj(s,s,20),m=A.a4Z(B.M,new A.XI(),20,B.k,"About Us"),l=A.dj(s,s,20),k=A.aot(B.Dr),j=A.ad7(15),i=t.p
 return new A.cm(B.lO,A.eu(A.a([new A.tR(r,B.kN,s),new A.h7(1,s),A.eu(A.a([q,p,o,n,m,l,A.dK(s,A.nW(new A.cm(B.bb,A.a4Z(B.M,new A.XJ(),20,B.b6,"CONTACT US"),s),s,s),B.p,s,s,new A.eD(s,s,k,j,s,s,B.b3),s,40,s,s,s,s,s)],i),B.L,B.bU,B.C)],i),B.L,B.I,B.C),s)}}
 A.XL.prototype={
 $1(a){return A.DF(null,A.tO(B.ml),null,new A.XK(a),null)},
