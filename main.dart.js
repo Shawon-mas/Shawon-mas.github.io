@@ -77495,7 +77495,7 @@ A.a7M.prototype={
 ZR(a){$.hd().n(0,this,a)}}
 A.JN.prototype={
 M(a){var s=null,r=A.tM(B.aa,s,s),q=A.aFU(A.a6(a).p2).ach(B.k),p=A.aM(s,s,B.m2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)
-return new A.ym(new A.xz(s),"Flutter Demo",r.adY(B.lS,B.cV,B.lS,q.adL(A.aM(s,s,B.m2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),p)),!1,s)}}
+return new A.ym(new A.xz(s),"AppMakers Co",r.adY(B.lS,B.cV,B.lS,q.adL(A.aM(s,s,B.m2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),p)),!1,s)}}
 A.vo.prototype={
 M(a){var s=null,r=t.E
 return A.ir(A.b([A.xA(B.Ha,B.j,s,s),B.Qj,A.j5(A.f7(A.b([A.ct(this.c,s,s,s,s,A.aM(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.F,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.k4,A.ct(this.d,s,s,s,s,s,s,s)],r),B.ad,B.V,B.W),1)],r),B.ad,B.V,B.W)}}
